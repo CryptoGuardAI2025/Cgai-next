@@ -17,3 +17,4 @@ npm run build
 - KI: components/PredictionTool.tsx (Mock) → echte API
 - Logo/Bilder: /public/logo.png, /public/images/hero-8k.png
 - Texte: /locales/de|en/common.json
+<!-- Update: 15. August 2025 -->
