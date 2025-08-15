@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body{@apply bg-cgai-bg text-white antialiased}
+.cgai-wordmark{font-family:'Playfair Display',serif;color:#FFD700;text-shadow:0 0 10px rgba(255,215,0,.7)}
+.header-glass{backdrop-filter:saturate(160%) blur(8px);background:linear-gradient(180deg,rgba(15,23,42,.85),rgba(15,23,42,.55));border-bottom:1px solid rgba(255,255,255,.06)}
+.card{@apply rounded-2xl border border-white/10 bg-white/5 shadow-xl}
