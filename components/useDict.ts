@@ -1,0 +1,1 @@
+import de from '../locales/de/common.json';import en from '../locales/en/common.json';import {useRouter} from 'next/router';export function useDict(){const{locale}=useRouter();return locale==='en'?en:de}
