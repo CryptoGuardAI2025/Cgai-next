@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "about": "Über uns",
+    "crypto": "Krypto",
+    "mindset": "Mindset",
+    "shop": "Shop",
+    "blog": "Blog",
+    "login": "Login"
+  },
+  "hero": {
+    "headline": "Der 9-to-5-Job ist Geschichte. Krypto ist Freiheit – und CGAI ist dein Kompass.",
+    "sub": "Wir kombinieren KI, Psychologie und Marktanalyse, um dir klare Entscheidungen zu liefern – ohne Hype, ohne Panik."
+  },
+  "footer": {
+    "disclaimer": "CGAI bietet keine Finanzberatung. Alle Prognosen sind simulierte Szenarien."
+  },
+  "crypto": {
+    "title": "Krypto",
+    "tvTitle": "Gesamtmarkt seit 2010",
+    "aiTitle": "KI‑Prognose (MVP)",
+    "inputLabel": "Coin (BTC, ETH, DOGE, XRP, SOL, ADA, VET)",
+    "predict": "Prognose berechnen"
+  },
+  "shop": {
+    "title": "Shop",
+    "b": "Anfänger",
+    "t": "Trader",
+    "i": "Investoren",
+    "hint": "Stripe‑Integration folgt"
+  },
+  "mindset": {
+    "title": "Mindset",
+    "text": "Disziplin. Psychologie. Fokus. Gewinne entstehen aus Regeln, nicht aus Hype.",
+    "pdf1": "Psychologie des Investierens"
+  },
+  "about": {
+    "title": "Über uns",
+    "text": "CGAI ist dein Navigationssystem im Kryptomarkt – ehrlich, datenbasiert, psychologisch fundiert."
+  },
+  "blog": {
+    "title": "Blog",
+    "text": "Bald hier: Analysen, Mindset, Tools."
+  }
+}
